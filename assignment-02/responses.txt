@@ -1,0 +1,13 @@
+What is a directory, and what is its relationship to files?
+
+-A directory is really similar to a folder. A file is any kind of document the computer has, while a direcotry
+that holds that the file (and 'directs' you to it!)
+
+How are VCS useful?
+
+-They are useful because they give more than one person an opportunity to work on a project together!
+
+Do you have a favorite artistic medium? Why is it your favorite?
+
+-My favorite medium is painting and drawing! I know it's a bit basic, but I feel most confident in those fields
+
