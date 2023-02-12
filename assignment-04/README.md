@@ -1,0 +1,2 @@
+Browsers function in a really complicated way. Someone creates html and then a dom translates the html into whatever browser the html is accessed on. Html needs to be put on a server to be accessed by more than one computer- hence why you cant see any html file anyone codes. 
+[click here for screenshot of work!](./images/screenshot%20of%20work.PNG)
