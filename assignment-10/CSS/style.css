@@ -1,0 +1,111 @@
+body {
+background-color:oldlace;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;
+
+
+}
+
+div {
+border:5px solid #D7B7A4;
+display: inline-block;
+padding: 20px;
+background-color:  #FFDFCC;
+border-radius: 30px; 
+
+}
+
+.strayuu {
+background-color:gainsboro;
+border:#8A0A0A;
+border-radius: 25px;
+
+}
+
+.funny {
+    background-color:white;
+    border:2px solid #8A0A0A;
+    border-radius: 25px;
+}
+
+#undertale {
+border-radius: 25px;
+background: url(./undertalediv.PNG);
+background-repeat: repeat;
+font-size: larger;
+color:aqua;
+border:3px solid aqua
+
+}
+
+#undatale{
+    border-radius: 25px;
+    background: url(./undatalediv.PNG);
+    background-repeat: repeat;
+font-size: larger;
+    font-weight: bolder;
+    color: #260000;
+    border:3px solid #440A0A
+
+}
+#steven{
+    border-radius: 25px;
+    background: url(./sudiv.PNG);
+    background-repeat: repeat;
+font-size: larger;
+    font-weight: bolder;
+    color: #1A052F;
+ border:0px;
+
+}
+
+.dot {
+height: 100px;
+width: 100px;
+border-radius: 50%;
+display: inline-block;
+
+}
+
+.dot.one {
+background-color: #F8C5C2;
+
+}
+
+.dot.two {
+    background-color: #543669;
+}
+
+.dot.three {
+    background-color: #98C0D8;
+}
+
+.dot.four {
+    background-color: #BDC6EE;
+}
+
+.dot.five {
+    background-color: #C08226;
+}
+.dot.six {
+    background-color: #FFBB3C;
+}
+.dot.seven {
+    background-color: #85A3D8;
+}
+.dot.eight {
+
+    background-color: #4A4386;
+}
+.dot.nine {
+    background-color: #D0A14F ;
+}
+.dot.ten {
+    background-color:#691108 ;
+}
+.dot.eleven {
+    background-color: #C9BEB8;
+}
+.dot.twelve {
+    background-color: #575153;
+}

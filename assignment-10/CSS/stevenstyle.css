@@ -1,0 +1,70 @@
+body{
+    background-color:#D7F2FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+div {
+    border: 3px solid #F0FEFF;
+    border-radius: 25px;
+    display: inline-block;
+    background-color:  #98C0D8;
+    padding: 30px;
+    color: #F0FEFF;
+    
+}
+
+ a:link {
+    color:#F8F0FF
+ }
+ a:visited {
+    color: #F8F0FF
+ }
+ a:hover {
+    color:darkslateblue
+ }
+
+ a:active {
+    color:#F8F0FF
+ }
+
+
+#steven{
+    border-radius: 25px;
+    background: url(./sudiv.PNG);
+    background-repeat: repeat;
+font-size: larger;
+    font-weight: bolder;
+    color: #1A052F;
+ border:0px;
+
+}
+
+#steeven{
+    border-radius: 25px;
+    background: url(./sudiv1.PNG);
+    background-repeat: repeat;
+font-size: larger;
+    font-weight: bolder;
+    color: #DAFCFF;
+ border:0px;
+}
+#stevan{
+    border-radius: 25px;
+    background: url(./sudiv2.PNG);
+    background-repeat: repeat;
+font-size: larger;
+    font-weight: bolder;
+    color: #0D0F38;
+ border:0px;
+}
+
+#stevin{
+    border-radius: 25px;
+    background: url(./sudiv3.PNG);
+    background-repeat: repeat;
+font-size: larger;
+    font-weight: bolder;
+    color: #FAF4FE;
+ border:0px;
+}
