@@ -1,0 +1,6 @@
+The universal class selector is good for the overall webpage, since using it effects everything on the site accept for your div elements. I use the universal for centering, font, backgroundcolor/image. element selector types are good for changing up all your images shapes, in case you arent a fan of the classic sharp rectangles. Its also good for smaller details that apply to the entire page. class selector types are my VERY FAVORITE becasue i love making multiple changes in small sections of my site. ID selectors are good too and i feel are a lot less buggy, but basically do the same thing as class. My color pallates were chosen using a website that detected html colors once you insert an image. I think I did a good job reflecting the color pallets of each of my inspirations, and i used this site a lot to get my background and border colors as well. https://html-color-codes.info/colors-from-image/ is the site! I was challenged by figuring out how to make ID selectors, specifically so i could add images to specific DIV elements. It was a struggle and im still a bit confused- how could i change the radius of just a FEW images? 
+As always here are my screenshots!
+[index screenshot](./images/index%20screenshot.PNG)
+[index css](./images/index%20css.PNG)
+[about page screenshot](./images/about%20screenshot.PNG)
+[about page css](./images/about%20css.PNG)
