@@ -1,0 +1,25 @@
+@font-face {
+    font-family: razor;
+    src: url('../fonts/razor.ttf') format('truetype');
+    font-style: normal;
+    font-size: larger;
+}
+
+@font-face {
+    font-family: xiao;
+    src: url('../fonts/xiao.ttf') format('truetype');
+    font-style: normal;
+    font-size: xx-large;
+}
+
+@font-face {
+    font-family: baizhu;
+    src: url('../fonts/baizhu.otf') format('opentype');
+    font-style: normal;
+}
+@font-face {
+font-family: tighnari;
+src: url('../fonts/tighnari.ttf') format('truetype');
+font-style: normal;
+
+}

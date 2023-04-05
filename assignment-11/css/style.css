@@ -1,0 +1,72 @@
+#title:hover {
+color:slateblue;
+}
+
+body {
+    background-color:azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#razor {
+    background-image: url(../images/electro\ background.PNG);
+    padding: 30px;
+    color:lavender;
+    width: 700px;
+    height: 700px;
+    font-family: razor;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#intro {
+    background-image: url(../images/div\ 1.PNG);
+    width: 740px;
+    height: 700px;
+    padding:20px;
+    color: 	#483C32;
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#xiao {
+    background-image: url(../images/anemo\ bg.PNG);
+    width: 970px;
+    height: 1500px;
+    padding: 20px;
+    font-family: xiao;
+    color:darkslategray;
+    font-size:50px;
+}
+#xiao:hover{
+    background-image: url(../images/anemobg\ 1.PNG);
+}
+
+#baizhu {
+    background-image: url(../images/dendro\ bg.PNG);
+    width: 900px;
+    height: 1430px;
+    font-family: baizhu;
+    font-size: 50px;
+    padding:20px;
+    color: #001400;
+}
+
+#tighnari {
+    background-image: url(../images/tighnari\ bg.PNG);
+    width: 1100px;
+    height: 2550px;
+    padding:20px;
+    font-family: tighnari;
+    font-size: 37px;
+    font-weight: bold;
+    color:#001400;
+
+}
+.links:visited{
+    color:blue;
+    font-display: underline;
+
+}
+.links:hover{
+    color:darkmagenta
+}
