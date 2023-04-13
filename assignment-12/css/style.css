@@ -1,0 +1,217 @@
+body {
+    font-family: retro_gaming;
+  
+}
+
+.site-name {
+    background-image: url(../images/sigil\ 1.png);
+   color:#f8e4ef;
+    width: 500px;
+    height: 480px;
+    font-size: 65px;
+    font-family: meowmeow;
+ 
+
+}
+
+.site-name:hover {
+    background-image: url(../images/sigil\ 1\ blue.png);
+    color:#d3dae9
+}
+
+
+
+
+.site-name2 {
+    background-image: url(../images/sigil\ 2.png);
+    width: 470px;
+    height: 460px;
+    font-size: 65px;
+    font-family: meowmeow;
+    color:#f8e4ef;
+    
+}
+.site-name2:hover {
+    background-image: url(../images/sigil\ 2\ blue.png);
+    color:#d3dae9
+}
+
+
+
+
+.site-name3 {
+    background-image: url(../images/sigil\ 3.png);
+    width: 550px;
+    height: 510px;
+    font-size: 65px;
+    font-family: meowmeow;
+    color:#f8e4ef;
+}
+.site-name3:hover {
+    background-image: url(../images/sigil\ 3\ blue.png);
+    color:#d3dae9
+}
+
+
+
+.menu-itemG {
+    background-image: url(../images/sigil\ 2\ small.PNG);
+    width:228px;
+    height:225px;
+    text-decoration: none;
+}
+.menu-itemG a {
+    text-decoration: none;
+}
+
+.menu-itemG:hover {
+    background-image: url(../images/sigil\ 2\ smallB.png);
+    color:#d3dae9;
+    text-decoration: underline;
+}
+
+
+
+.menu-itemC {
+    background-image: url(../images/sigil\ 3\ small.PNG);
+    width:228px;
+    height:225px;
+    vertical-align: left;
+    text-decoration: none;
+}
+.menu-itemC a {
+    text-decoration: none;
+}
+.menu-itemC:hover {
+    background-image: url(../images/sigil\ 3\ smallB.png);
+    color:#d3dae9;
+    text-decoration: underline;
+}
+
+
+
+.menu-itemH {
+    background-image: url(../images/sigil\ 1\ small.PNG);
+    width:228px;
+    height:225px;
+    text-decoration: none;
+}
+.menu-itemH a {
+    text-decoration: none;
+}
+.menu-itemH:hover {
+    background-image: url(../images/sigil\ 1\ smallB.png);
+    color:#d3dae9;
+    text-decoration: underline;
+}
+
+
+
+.menu-itemH1 {
+    background-image: url(../images/sigil\ 1\ small.PNG);
+    width:260px;
+    height:260px;
+    text-decoration: none;
+}
+.menu-itemH1:hover {
+    background-image: url(../images/sigil\ 1\ smallB.png);
+    color:#d3dae9
+}
+
+.menu-itemG1 {
+    background-image: url(../images/sigil\ 2\ small.PNG);
+    width:268px;
+    height:268px;
+    text-decoration: none;
+}
+.menu-itemG1:hover {
+    background-image: url(../images/sigil\ 2\ smallB.png);
+    color:#d3dae9
+}
+
+
+/* styling the dropdown menu */
+
+header {
+    position: absolute;
+    text-align: left;
+    width:99%;
+    height:4cm;
+    top: 0px;
+    padding:10px;
+}
+
+/* dropdown buttons*/
+
+.menu-item-dropdown {
+    background-image: url(../images/header\ bg.PNG);
+    width:60px;
+    height: 6px;
+    text-decoration: none;
+}
+
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display:none;
+    position: absolute;
+    margin: 0.5cm 0 0 -1cm;
+    z-index: 1;
+background-color: none;
+background-image: none;
+}
+
+.menu-item-dropdown:hover .dropdown-content {
+    display: block;
+    width:100px;
+    height:200px;
+}
+.dropdown-item {
+    background-image: url(../images/header\ bgB.PNG);
+    width:80px;
+    height: 6px;
+    position: absolute;
+    margin: -1cm 0 0 0cm;
+    text-align: center;
+    border-radius: 10%; 
+}
+.dropdown-item a {
+    color:#d3dae9;
+    text-decoration: none;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+color:#f8e4ef
+}
+.dropdown-item1 {
+    background-image: url(../images/header\ bgB.PNG);
+    width:110px;
+    height: 6px;
+    position: absolute;
+    margin: 1cm 0 0 0cm;
+    text-align: center;
+    border-radius: 10%;   
+}
+.dropdown-item1 a {
+    color:#d3dae9;
+    text-decoration: none;
+}
+.dropdown-item1:hover, .dropdown-item1:hover a {
+    color:#f8e4ef
+    }
+.dropdown-item2 {
+    background-image: url(../images/header\ bgB.png);
+    width:120px;
+    height: 6px;
+    position: absolute;
+    margin: 3cm 0 0 0cm;
+    text-align: center;
+    border-radius: 10%;
+}
+.dropdown-item2 a {
+    color:#d3dae9;
+    text-decoration: none;
+}
+.dropdown-item2:hover, .dropdown-item2:hover a {
+    color:#f8e4ef
+    }

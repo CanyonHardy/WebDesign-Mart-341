@@ -1,0 +1,12 @@
+@font-face {
+    font-family: retro_gaming;
+    src: url(../css/fonts/retro_gaming/retro.ttf) format(truetype);
+    font-style: normal;
+    font-size:large;
+}
+@font-face {
+    font-family: meowmeow;
+    src: url(../css/fonts/meowmeow/upheavtt.ttf) format(truetype);
+    font-style: normal;
+font-size:larger;
+}
