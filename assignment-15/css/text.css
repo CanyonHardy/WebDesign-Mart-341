@@ -40,3 +40,10 @@ letter-spacing: 10cm;
 font-size:larger;
 letter-spacing: 10cm;
 }
+@font-face {
+    font-family: outline;
+    src: url(../css/fonts/outline.ttf) format(truetype);
+    font-style: normal;
+font-size:larger;
+letter-spacing: 10cm;
+}
