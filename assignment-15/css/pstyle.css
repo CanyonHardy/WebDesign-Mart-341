@@ -35,7 +35,7 @@ background-image: none;
     height:200px;
 }
 .dropdown-item {
-    background-image: url(../images/background\ 9.PNG);
+    background-image: url(../images/background\ 9.png);
     width:220px;
     height: 40px;
     text-align: center;
@@ -116,7 +116,7 @@ margin: 5px 0 0 0px;
         letter-spacing: 5px;
     }
     .history{
-        background-image: url(../images/background\ 9.PNG);
+        background-image: url(../images/background\ 9.png);
         width:1200px;
         height: 810px;
         border-radius: 10px;
@@ -132,7 +132,7 @@ margin: 5px 0 0 0px;
         height: 430px;
     }
     .materials{
-        background-image: url(../images/background\ 9.PNG);
+        background-image: url(../images/background\ 9.png);
         width:1200px;
         height: 1190px;
         border-radius: 10px;
@@ -166,7 +166,7 @@ margin: 5px 0 0 0px;
     .thanks{
         width:1050px;
         height:500px;
-        background-image: url(../images/background\ 9.PNG);
+        background-image: url(../images/background\ 9.png);
         border-radius: 15px;
         padding:10px;
     }

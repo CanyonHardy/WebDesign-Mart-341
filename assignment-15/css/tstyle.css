@@ -35,7 +35,7 @@ background-image: none;
     height:200px;
 }
 .dropdown-item {
-    background-image: url(../images/paper\ div\ 2.png);
+    background-image: url(../images/paper\ div\ 2.PNG);
     width:220px;
     height: 40px;
     text-align: center;
@@ -48,11 +48,11 @@ background-image: none;
 }
 .dropdown-item:hover, .dropdown-item:hover a {
     color: rgb(54, 51, 46);
-    background-image: url(../images/paper\ div\ 3.png);
+    background-image: url(../images/paper\ div\ 3.PNG);
     border-radius: 10px;
 }
 .dropdown-item1 {
-    background-image: url(../images/paper\ div\ 2.png);
+    background-image: url(../images/paper\ div\ 2.PNG);
     width:190px;
     height: 40px;
     position: fixed;
@@ -67,11 +67,11 @@ margin: 5px 0 0 0px;
 }
 .dropdown-item1:hover, .dropdown-item1:hover a {
     color: rgb(54, 51, 46);
-    background-image: url(../images/paper\ div\ 3.png);
+    background-image: url(../images/paper\ div\ 3.PNG);
     border-radius: 10px;
     }
 .dropdown-item2 {
-    background-image: url(../images/paper\ div\ 2.png);
+    background-image: url(../images/paper\ div\ 2.PNG);
     width:150px;
     height: 40px;
     text-align: center;
@@ -86,14 +86,14 @@ margin: 5px 0 0 0px;
 }
 .dropdown-item2:hover, .dropdown-item2:hover a {
     color: rgb(54, 51, 46);
-    background-image: url(../images/paper\ div\ 3.png);
+    background-image: url(../images/paper\ div\ 3.PNG);
     border-radius: 10px;
     }
 
     .open{
         width:900px;
         height:200px;
-        background-image: url(../images/paper\ div\ 3.png);
+        background-image: url(../images/paper\ div\ 3.PNG);
         border-radius: 15px;
         
         
